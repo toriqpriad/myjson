@@ -1,11 +1,9 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "nama": "toriq",
-      "alamat": "junrejo",
-      "umur": "26",
-      "phone": "123456789"
-    }
-  ]
+	"users": [{
+		"id": 1,
+		"nama": "toriq",
+		"alamat": "junrejo",
+		"umur": "26",
+		"phone": "123456789"
+	}]
 }
