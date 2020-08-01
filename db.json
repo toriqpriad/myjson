@@ -5,5 +5,12 @@
 		"alamat": "junrejo",
 		"umur": "26",
 		"phone": "123456789"
+	},
+{
+		"id": 2,
+		"nama": "Wulan",
+		"alamat": "sengkaling",
+		"umur": "26",
+		"phone": "123456789"
 	}]
 }
